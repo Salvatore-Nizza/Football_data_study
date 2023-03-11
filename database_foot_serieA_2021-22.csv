@@ -1,0 +1,610 @@
+Player_Name,Player_LastName,Club,Position,Foot,known_name
+JE'rE'mie,Boga ,ATALANTA,Left Winger,right,BOGA J.
+Moustapha,CissE' ,ATALANTA,Centre-Forward,right,CISSE M.
+Giorgio,Cittadini  ,ATALANTA,Centre-Back,right,CITTADINI G.
+Tommaso,De Nipoti,ATALANTA,Second Striker,left,DE NIPOTI T.
+Marten,de Roon,ATALANTA,Defensive Midfield,right,DE ROON M.
+Merih,Demiral ,ATALANTA,Centre-Back,right,DEMIRAL M.
+Berat,Djimsiti ,ATALANTA,Centre-Back,right,DJIMSITI B.
+Remo,Freuler ,ATALANTA,Central Midfield,right,FREULER R.
+Robin,Gosens ,ATALANTA,Left Midfield,left,GOSENS R.
+Hans,Hateboer ,ATALANTA,Right-Back,right,HATEBOER H.
+Josip,Ilicic  ,ATALANTA,Second Striker,left,ILICIC J.
+Teun,Koopmeiners ,ATALANTA,Defensive Midfield,left,KOOPMEINERS T.
+Sam,Lammers ,ATALANTA,Centre-Forward,both,LAMMERS S.
+Matteo,Lovato  ,ATALANTA,Centre-Back,right,LOVATO M.
+Joakim,Maehle ,ATALANTA,Left-Back,right,MAEHLE J.
+Ruslan,Malinovskyi ,ATALANTA,Attacking Midfield,left,MALINOVSKYI R.
+Valentin,Mihaila ,ATALANTA,Left Winger,right,MIHAILA V.
+Aleksey,Miranchuk ,ATALANTA,Attacking Midfield,left,MIRANCHUK AL.
+Luis,Muriel ,ATALANTA,Centre-Forward,right,MURIEL L.
+Juan,Musso ,ATALANTA,Goalkeeper,right,MUSSO J.
+JosE',Luis Palomino,ATALANTA,Centre-Back,left,PALOMINO J. L.
+Mario,Pasalic ,ATALANTA,Attacking Midfield,right,PASALIC M.
+Matteo,Pessina ,ATALANTA,Attacking Midfield,left,PESSINA M.
+Giuseppe,Pezzella  ,ATALANTA,Left-Back,left,PEZZELLA G.
+Roberto,Piccoli  ,ATALANTA,Centre-Forward,right,PICCOLI R.
+Francesco,Rossi ,ATALANTA,Goalkeeper,right,ROSSI F.
+Giorgio,Scalvini ,ATALANTA,Centre-Back,right,SCALVINI G.
+Alassane,Sidibe ,ATALANTA,Central Midfield,right,SIDIBE A.
+Marco,Sportiello ,ATALANTA,Goalkeeper,right,SPORTIELLO M.
+Bosko,Sutalo  ,ATALANTA,Centre-Back,right,SUTALO B.
+Rafael,TolOi ,ATALANTA,Centre-Back,right,TOLOI R.
+DuvAn,Zapata ,ATALANTA,Centre-Forward,right,ZAPATA D.
+Davide,Zappacosta  ,ATALANTA,Right-Back,right,ZAPPACOSTA D.
+Michel,Aebischer ,BOLOGNA,Central Midfield,right,AEBISCHER M.
+Wisdom,Amey ,BOLOGNA,Centre-Back,right,AMEY W.
+Ebenezer,Annan ,BOLOGNA,Left-Back,left,ANNAN E.
+Marko,Arnautovic ,BOLOGNA,Centre-Forward,both,ARNAUTOVIC M.
+Nicola,Bagnolini ,BOLOGNA,Goalkeeper,right,BAGNOLINI N.
+Francesco,Bardi ,BOLOGNA,Goalkeeper,right,BARDI F.
+Musa,Barrow ,BOLOGNA,Left Winger,right,BARROW M.
+Luis,Binks ,BOLOGNA,Centre-Back,left,BINKS L.
+Kevin,Bonifazi  ,BOLOGNA,Centre-Back,right,BONIFAZI K.
+Lorenzo,De Silvestri,BOLOGNA,Right-Back,right,DE SILVESTRI L.
+Mitchell,Dijks  ,BOLOGNA,Left-Back,left,DIJKS M.
+NicolAs,DomInguez ,BOLOGNA,Central Midfield,right,DOMINGUEZ N.
+Diego,Falcinelli ,BOLOGNA,Centre-Forward,left,FALCINELLI D.
+Aaron,Hickey  ,BOLOGNA,Left-Back,both,HICKEY A.
+Denso,Kasius  ,BOLOGNA,Right-Back,right,KASIUS D.
+Ibrahima,Mbaye ,BOLOGNA,Right-Back,right,MBAYE I.
+Gary,Medel ,BOLOGNA,Defensive Midfield,right,MEDEL G.
+Kingsley,Michael ,BOLOGNA,Central Midfield,right,MICHAEL K.
+Riccardo,Orsolini ,BOLOGNA,Right Winger,left,ORSOLINI R.
+Niklas,PyyhtiA ,BOLOGNA,Central Midfield,left,PYYHTIA N.
+Antonio,Raimondo ,BOLOGNA,Centre-Forward,left,RAIMONDO A.
+Nicola,Sansone ,BOLOGNA,Left Winger,right,SANSONE N.
+Federico,Santander ,BOLOGNA,Centre-Forward,right,SANTANDER F.
+Jerdy,Schouten ,BOLOGNA,Defensive Midfield,right,SCHOUTEN J.
+Lukasz,Skorupski ,BOLOGNA,Goalkeeper,right,SKORUPSKI L.
+Andreas,Skov Olsen,BOLOGNA,Right Midfield,left,SKOV OLSEN A.
+Roberto,Soriano ,BOLOGNA,Attacking Midfield,right,SORIANO R.
+Adama,Soumaoro ,BOLOGNA,Centre-Back,right,SOUMAORO A.
+Riccardo,Stivanello ,BOLOGNA,Centre-Back,right,STIVANELLO R.
+Mattias,Svanberg ,BOLOGNA,Central Midfield,right,SVANBERG M.
+Arthur,Theate ,BOLOGNA,Centre-Back,left,THEATE A.
+Takehiro,Tomiyasu ,BOLOGNA,Right-Back,right,TOMIYASU T.
+Kacper,Urbanski ,BOLOGNA,Defensive Midfield,right,URBANSKI K.
+Sydney,van Hooijdonk,BOLOGNA,Centre-Forward,right,VAN HOOIJDONK S.
+Emanuel,Vignato ,BOLOGNA,Right Winger,right,VIGNATO E.
+Nicolas,Viola ,BOLOGNA,Central Midfield,left,VIOLA N.
+Giorgio,Altare ,CAGLIARI,Centre-Back,right,ALTARE G.
+Daniele,Baselli ,CAGLIARI,Central Midfield,right,BASELLI D.
+Raoul,Bellanova ,CAGLIARI,Right-Back,right,BELLANOVA R.
+MartIn,CAceres ,CAGLIARI,Centre-Back,right,CACERES M.
+Andrea,Carboni ,CAGLIARI,Centre-Back,left,CARBONI A.
+Luca,Ceppitelli ,CAGLIARI,Centre-Back,both,CEPPITELLI L.
+Damir,Ceter ,CAGLIARI,Centre-Forward,right,CETER D.
+Alessio,Cragno ,CAGLIARI,Goalkeeper,right,CRAGNO A.
+Dalbert ,Dalbert ,CAGLIARI,Left-Back,left,DALBERT H.
+Alessandro,Deiola ,CAGLIARI,Central Midfield,right,DEIOLA A.
+Paolo,FaragO' ,CAGLIARI,Central Midfield,right,FARAGO' P.
+Diego,Farias ,CAGLIARI,Left Winger,right,FARIAS D.
+Luca,Gagliano ,CAGLIARI,Centre-Forward,left,GAGLIANO L.
+Diego,GodIn ,CAGLIARI,Centre-Back,right,GODIN D.
+Edoardo,Goldaniga  ,CAGLIARI,Centre-Back,right,GOLDANIGA E.
+Alberto,Grassi ,CAGLIARI,Central Midfield,right,GRASSI A.
+JoAo,Pedro  ,CAGLIARI,Centre-Forward,right,JOAO PEDRO
+Keita,BaldE'  ,CAGLIARI,Centre-Forward,both,KEITA B.
+Christos,Kourfalidis ,CAGLIARI,Central Midfield,right,KOURFALIDIS C.
+Charalampos,Lykogiannis ,CAGLIARI,Left-Back,left,LYKOGIANNIS C.
+Razvan,Marin ,CAGLIARI,Central Midfield,right,MARIN R.
+Nahitan,NAndez ,CAGLIARI,Right Midfield,right,NANDEZ N.
+Adam,Obert ,CAGLIARI,Centre-Back,left,OBERT A.
+Christian,Oliva ,CAGLIARI,Defensive Midfield,right,OLIVA C.
+Leonardo,Pavoletti  ,CAGLIARI,Centre-Forward,right,PAVOLETTI L.
+GastOn,Pereiro ,CAGLIARI,Attacking Midfield,left,PEREIRO G.
+Boris,RadunoviC ,CAGLIARI,Goalkeeper,right,RADUNOVIC B.
+Marko,Rog ,CAGLIARI,Central Midfield,right,ROG M.
+Giovanni,Simeone ,CAGLIARI,Centre-Forward,right,SIMEONE G.
+Kevin,Strootman ,CAGLIARI,Central Midfield,left,STROOTMAN K.
+Sebastian,Walukiewicz ,CAGLIARI,Centre-Back,right,WALUKIEWICZ S.
+Gabriele,Zappa ,CAGLIARI,Right-Back,right,ZAPPA G.
+Kristjan,Asllani ,EMPOLI,Defensive Midfield,right,ASLLANI K.
+Nedim,Bajrami ,EMPOLI,Attacking Midfield,right,BAJRAMI N.
+Tommaso,Baldanzi ,EMPOLI,Attacking Midfield,left,BALDANZI T.
+Filippo,Bandinelli ,EMPOLI,Central Midfield,left,BANDINELLI F.
+Marco,Benassi ,EMPOLI,Central Midfield,right,BENASSI M.
+Liberato,Cacace ,EMPOLI,Left-Back,left,CACACE L.
+Giovanni,Crociata ,EMPOLI,Central Midfield,right,CROCIATA G.
+Patrick,Cutrone ,EMPOLI,Centre-Forward,right,CUTRONE P.
+Federico,Di Francesco,EMPOLI,Left Winger,right,DI FRANCESCO F.
+Riccardo,Fiamozzi ,EMPOLI,Right-Back,right,FIAMOZZI R.
+Nicolas,Haas ,EMPOLI,Central Midfield,right,HAAS N.
+Liam,Henderson ,EMPOLI,Central Midfield,right,HENDERSON L.
+Ardian,Ismajli ,EMPOLI,Centre-Back,right,ISMAJLI A.
+Andrea,La Mantia ,EMPOLI,Centre-Forward,right,LA MANTIA A.
+Sebastiano,Luperto ,EMPOLI,Centre-Back,left,LUPERTO S.
+Leonardo,Mancuso ,EMPOLI,Centre-Forward,right,MANCUSO L.
+Riccardo,Marchizza ,EMPOLI,Left-Back,left,MARCHIZZA R.
+Fabiano,Parisi ,EMPOLI,Left-Back,left,PARISI F.
+Andrea,Pinamonti ,EMPOLI,Centre-Forward,right,PINAMONTI A.
+Samuele,Ricci ,EMPOLI,Defensive Midfield,right,RICCI S.
+Simone,Romagnoli  ,EMPOLI,Centre-Back,right,ROMAGNOLI S.
+Petar,Stojanovic ,EMPOLI,Right-Back,right,STOJANOVIC P.
+Leo,Stulac ,EMPOLI,Defensive Midfield,right,STULAC L.
+Lorenzo,Tonelli  ,EMPOLI,Centre-Back,right,TONELLI L.
+Valerio,Verre ,EMPOLI,Attacking Midfield,both,VERRE V.
+Guglielmo,Vicario ,EMPOLI,Goalkeeper,right,VICARIO G.
+Mattia,Viti ,EMPOLI,Centre-Back,left,VITI M.
+Szymon,Zurkowski ,EMPOLI,Central Midfield,right,ZURKOWSKI S.
+Sofyan,Amrabat ,FIORENTINA,Defensive Midfield,right,AMRABAT S.
+Cristiano,Biraghi ,FIORENTINA,Left-Back,left,BIRAGHI C.
+Giacomo,Bonaventura ,FIORENTINA,Central Midfield,right,BONAVENTURA G.
+Arthur,Cabral ,FIORENTINA,Centre-Forward,right,CABRAL A.
+JosE',CallejOn ,FIORENTINA,Right Winger,right,CALLEJON J. M.
+Gaetano,Castrovilli  ,FIORENTINA,Central Midfield,right,CASTROVILLI G.
+Filippo,Distefano ,FIORENTINA,Second Striker,right,DISTEFANO F.
+Bartlomiej,Dragowski  ,FIORENTINA,Goalkeeper,right,DRAGOWSKI B.
+Alfred,Duncan ,FIORENTINA,Central Midfield,left,DUNCAN A.
+NicolAs,GonzAlez  ,FIORENTINA,Left Winger,left,GONZALEZ N.
+Igor,Igor,FIORENTINA,Centre-Back,left,IGOR
+Jonathan,IkonE' ,FIORENTINA,Right Winger,left,IKONE' J.
+Aleksandr,Kokorin ,FIORENTINA,Centre-Forward,right,KOKORIN A.
+Youssef,Maleh ,FIORENTINA,Central Midfield,left,MALEH Y.
+Nikola,MilenkoviC ,FIORENTINA,Centre-Back,right,MILENKOVIC N.
+Matija,NastasiC ,FIORENTINA,Centre-Back,left,NASTASIC M.
+Alvaro,Odriozola ,FIORENTINA,Right-Back,right,ODRIOZOLA A.
+Krzysztof,Piatek ,FIORENTINA,Centre-Forward,right,PIATEK K.
+Erick,Pulgar ,FIORENTINA,Defensive Midfield,right,PULGAR E.
+Lucas,MartInez Quarta,FIORENTINA,Centre-Back,right,QUARTA L. M.
+Luca,Ranieri ,FIORENTINA,Left-Back,left,RANIERI L.
+Riccardo,Saponara ,FIORENTINA,Attacking Midfield,right,SAPONARA R.
+Riccardo,Sottil  ,FIORENTINA,Left Winger,right,SOTTIL R.
+Pietro,Terracciano ,FIORENTINA,Goalkeeper,right,TERRACCIANO P.
+Aleksa,TerziC ,FIORENTINA,Left-Back,left,TERZIC A.
+Lucas,Torreira ,FIORENTINA,Defensive Midfield,right,TORREIRA L.
+Lorenzo,Venuti ,FIORENTINA,Right-Back,right,VENUTI L.
+Dušan,VlahoviC ,FIORENTINA,Centre-Forward,left,VLAHOVIC D.
+Kevin,Agudelo ,GENOA,Attacking Midfield,left,AGUDELO K.
+Nadiem,Amiri ,GENOA,Central Midfield,right,AMIRI N.
+Milan,Badelj ,GENOA,Defensive Midfield,right,BADELJ M.
+Mattia,Bani ,GENOA,Centre-Back,right,BANI M.
+Valon,Behrami ,GENOA,Defensive Midfield,right,BEHRAMI V.
+Flavio,Bianchi ,GENOA,Centre-Forward,right,BIANCHI F.
+Davide,Biraschi ,GENOA,Centre-Back,right,BIRASCHI D.
+Aleksander,Buksa ,GENOA,Centre-Forward,left,BUKSA A.
+Felipe,Caicedo ,GENOA,Centre-Forward,left,CAICEDO F.
+Riccardo,Calafiori ,GENOA,Left-Back,left,CALAFIORI R.
+Andrea,Cambiaso ,GENOA,Left-Back,both,CAMBIASO A.
+Francesco,Cassata ,GENOA,Central Midfield,right,CASSATA F.
+Domenico,Criscito ,GENOA,Left-Back,left,CRISCITO D.
+Mattia,Destro  ,GENOA,Centre-Forward,right,DESTRO M.
+Caleb,Ekuban ,GENOA,Centre-Forward,right,EKUBAN C.
+Mohamed,Fares ,GENOA,Left Midfield,left,FARES M. S.
+Andrea,Favilli ,GENOA,Centre-Forward,right,FAVILLI A.
+Morten,Frendrup ,GENOA,Central Midfield,right,FRENDRUP M.
+Pablo,Galdames ,GENOA,Defensive Midfield,right,GALDAMES P.
+Paolo,Ghiglione ,GENOA,Right-Back,right,GHIGLIONE P.
+Albert,Gudmundsson ,GENOA,Right Winger,right,GUDMUNDSSON A.
+Silvan,Hefti ,GENOA,Right-Back,right,HEFTI S.
+Hernani,Hernani,GENOA,Central Midfield,both,HERNANI A. J.
+Yayah,Kallon ,GENOA,Right Winger,left,KALLON Y.
+Nikola,Maksimovic ,GENOA,Centre-Back,right,MAKSIMOVIC N.
+Andrea,Masiello ,GENOA,Centre-Back,right,MASIELLO A.
+Filippo,Melegoni ,GENOA,Central Midfield,right,MELEGONI F.
+Leo,Ostigard ,GENOA,Centre-Back,right,OSTIGARD L. S.
+Goran,Pandev ,GENOA,Second Striker,left,PANDEV G.
+Manolo,Portanova ,GENOA,Central Midfield,right,PORTANOVA M.
+NicolO',Rovella ,GENOA,Defensive Midfield,right,ROVELLA N.
+Stefano,Sabelli ,GENOA,Right-Back,right,SABELLI S.
+Eddie,Salcedo ,GENOA,Centre-Forward,right,SALCEDO MORA E. A.
+Adrian,Semper ,GENOA,Goalkeeper,right,SEMPER A.
+Laurens,Serpe ,GENOA,Centre-Back,both,SERPE L.
+Salvatore,Sirigu ,GENOA,Goalkeeper,right,SIRIGU S.
+Stefano,Sturaro  ,GENOA,Central Midfield,right,STURARO S.
+Abdoulaye,TourE' ,GENOA,Defensive Midfield,right,TOURE' A.
+Zinho,Vanheusden  ,GENOA,Centre-Back,right,VANHEUSDEN Z.
+Johan,VAsquez ,GENOA,Centre-Back,left,VASQUEZ J.
+Kelvin,Yeboah ,GENOA,Centre-Forward,right,YEBOAH K.
+Antonin,Barak ,HELLAS VERONA,Attacking Midfield,left,BARAK A.
+Alessandro,Berardi ,HELLAS VERONA,Goalkeeper,right,BERARDI A.
+Daniel,Bessa ,HELLAS VERONA,Central Midfield,right,BESSA D.
+Matteo,Cancellieri ,HELLAS VERONA,Right Winger,left,CANCELLIERI M.
+NicolO',Casale ,HELLAS VERONA,Centre-Back,right,CASALE N.
+Federico,Ceccherini ,HELLAS VERONA,Centre-Back,right,CECCHERINI F.
+Mert,Cetin ,HELLAS VERONA,Centre-Back,right,CETIN M.
+Diego,Coppola  ,HELLAS VERONA,Centre-Back,right,COPPOLA D.
+Pawel,Dawidowicz ,HELLAS VERONA,Centre-Back,both,DAWIDOWICZ P.
+Samuel,Di Carmine,HELLAS VERONA,Centre-Forward,right,DI CARMINE S.
+Davide,Faraoni  ,HELLAS VERONA,Right-Back,right,FARAONI D.
+Gianluca,Frabotta ,HELLAS VERONA,Left-Back,left,FRABOTTA G.
+Koray,GUnter ,HELLAS VERONA,Centre-Back,right,GUNTER K.
+Martin,Hongla ,HELLAS VERONA,Defensive Midfield,right,HONGLA M.
+Ivan,IliC ,HELLAS VERONA,Central Midfield,left,ILIC I.
+Nikola,Kalinic ,HELLAS VERONA,Centre-Forward,both,KALINIC N.
+Kevin,Lasagna ,HELLAS VERONA,Centre-Forward,left,LASAGNA K.
+Darko,LazoviC ,HELLAS VERONA,Left Midfield,right,LAZOVIC D.
+Lorenzo,MontipO' ,HELLAS VERONA,Goalkeeper,right,MONTIPO' L.
+Ivor,Pandur ,HELLAS VERONA,Goalkeeper,right,PANDUR I.
+Mateusz,Praszelik ,HELLAS VERONA,Attacking Midfield,right,PRASZELIK M.
+Panagiotis,Retsos ,HELLAS VERONA,Centre-Back,right,RETSOS P.
+Adrien,Tamèze ,HELLAS VERONA,Defensive Midfield,right,TAMEZE A.
+Filippo,Terracciano ,HELLAS VERONA,Central Midfield,right,TERRACCIANO F.
+Miguel,Veloso ,HELLAS VERONA,Defensive Midfield,left,VELOSO M.
+NicolO',Barella ,INTER,Central Midfield,right,BARELLA N.
+Alessandro,Bastoni ,INTER,Centre-Back,left,BASTONI A.
+Marcelo,Brozovic ,INTER,Defensive Midfield,both,BROZOVIC M.
+Hakan,Calhanoglu ,INTER,Central Midfield,right,CALHANOGLU H.
+JoaquIn,Correa  ,INTER,Second Striker,right,CORREA J.
+Danilo,D'Ambrosio ,INTER,Centre-Back,right,D'AMBROSIO D.
+Matteo,Darmian  ,INTER,Right-Back,right,DARMIAN M.
+Stefan,de Vrij,INTER,Centre-Back,right,DE VRIJ S.
+Federico,Dimarco ,INTER,Left-Back,left,DIMARCO F.
+Denzel,Dumfries ,INTER,Right Midfield,right,DUMFRIES D.
+Edin,Dzeko ,INTER,Centre-Forward,right,DZEKO E.
+Roberto,Gagliardini ,INTER,Central Midfield,right,GAGLIARDINI R.
+Samir,Handanovic ,INTER,Goalkeeper,right,HANDANOVIC S.
+Aleksandar,Kolarov ,INTER,Left-Back,left,KOLAROV A.
+Lautaro,MartInez ,INTER,Centre-Forward,right,LAUTARO MARTINEZ
+Ivan,Perisic ,INTER,Left Midfield,both,PERISIC I.
+Ionut,Radu  ,INTER,Goalkeeper,right,RADU I.
+Andrea,Ranocchia ,INTER,Centre-Back,right,RANOCCHIA A.
+Alexis,SAnchez ,INTER,Centre-Forward,right,SANCHEZ A.
+MartIn,Satriano ,INTER,Centre-Forward,right,SATRIANO M.
+Stefano,Sensi  ,INTER,Central Midfield,right,SENSI S.
+Milan,Skriniar ,INTER,Centre-Back,right,SKRINIAR M.
+MatIas,Vecino ,INTER,Central Midfield,right,VECINO M.
+Arturo,Vidal ,INTER,Central Midfield,right,VIDAL A.
+Mattia,Zanotti ,INTER,Right-Back,right,ZANOTTI M.
+Marley,AkE'  ,JUVENTUS,Left Winger,right,AKE' M.
+Alex,Sandro ,JUVENTUS,Left-Back,left,ALEX SANDRO
+Arthur,Melo  ,JUVENTUS,Central Midfield,right,ARTHUR
+Rodrigo,Bentancur ,JUVENTUS,Central Midfield,right,BENTANCUR R.
+Federico,Bernardeschi ,JUVENTUS,Right Winger,left,BERNARDESCHI F.
+Leonardo,Bonucci ,JUVENTUS,Centre-Back,right,BONUCCI L.
+Giorgio,Chiellini ,JUVENTUS,Centre-Back,left,CHIELLINI G.
+Federico,Chiesa ,JUVENTUS,Right Winger,right,CHIESA F.
+Cristiano,Ronaldo ,JUVENTUS,Centre-Forward,right,CRISTIANO RONALDO
+Juan,Cuadrado ,JUVENTUS,Right Midfield,right,CUADRADO JU.
+Danilo,Danilo,JUVENTUS,Right-Back,right,DANILO
+Matthijs,de Ligt,JUVENTUS,Centre-Back,right,DE LIGT M.
+Mattia,De Sciglio ,JUVENTUS,Left-Back,right,DE SCIGLIO M.
+Paulo,Dybala ,JUVENTUS,Second Striker,left,DYBALA P.
+Kaio,Jorge ,JUVENTUS,Centre-Forward,right,KAIO JORGE
+Moise,Kean ,JUVENTUS,Centre-Forward,right,KEAN M.
+Dejan,Kulusevski ,JUVENTUS,Right Winger,left,KULUSEVSKI D.
+Manuel,Locatelli ,JUVENTUS,Defensive Midfield,right,LOCATELLI M.
+Weston,McKennie ,JUVENTUS,Central Midfield,right,MCKENNIE W.
+Fabio,Miretti ,JUVENTUS,Central Midfield,right,MIRETTI F.
+Alvaro,Morata ,JUVENTUS,Centre-Forward,right,MORATA A.
+Martin,Palumbo ,JUVENTUS,Central Midfield,left,PALUMBO M.
+Luca,Pellegrini ,JUVENTUS,Left-Back,left,PELLEGRINI LU.
+Mattia,Perin ,JUVENTUS,Goalkeeper,right,PERIN M.
+Carlo,Pinsoglio ,JUVENTUS,Goalkeeper,left,PINSOGLIO C.
+Adrien,Rabiot ,JUVENTUS,Central Midfield,left,RABIOT A.
+Aaron,Ramsey ,JUVENTUS,Central Midfield,right,RAMSEY A.
+Daniele,Rugani ,JUVENTUS,Centre-Back,right,RUGANI D.
+MatIas,SoulE' ,JUVENTUS,Right Winger,left,SOULE' M.
+Wojciech,Szczesny ,JUVENTUS,Goalkeeper,right,SZCZESNY W.
+Denis,Zakaria ,JUVENTUS,Defensive Midfield,right,ZAKARIA D.
+Francesco,Acerbi ,LAZIO,Centre-Back,left,ACERBI F.
+Jean-Daniel,Akpa Akpro,LAZIO,Central Midfield,right,AKPA AKPRO J. D.
+AndrE',Anderson ,LAZIO,Attacking Midfield,right,ANDERSON A.
+Toma,Basic ,LAZIO,Central Midfield,left,BASIC T.
+Danilo,Cataldi ,LAZIO,Defensive Midfield,right,CATALDI D.
+Gonzalo,Escalante ,LAZIO,Central Midfield,right,ESCALANTE G.
+Felipe,Anderson ,LAZIO,Right Winger,right,FELIPE ANDERSON
+Elseid,Hysaj ,LAZIO,Right-Back,right,HYSAJ E.
+Ciro,Immobile ,LAZIO,Centre-Forward,right,IMMOBILE C.
+Jovane,Cabral ,LAZIO,Left Winger,right,JOVANE CABRAL
+Dimitrije,Kamenovic ,LAZIO,Left-Back,left,KAMENOVIC D.
+Manuel,Lazzari  ,LAZIO,Right-Back,right,LAZZARI M.
+Lucas,Leiva ,LAZIO,Defensive Midfield,right,LUCAS LEIVA
+Luis,Alberto ,LAZIO,Central Midfield,right,LUIS ALBERTO
+Luiz,Felipe ,LAZIO,Centre-Back,right,LUIZ FELIPE
+Adam,Marusic ,LAZIO,Right-Back,right,MARUSIC A.
+Sergej,MilinkoviC-SaviC ,LAZIO,Central Midfield,right,MILINKOVIC-SAVIC S.
+Raúl,Moro ,LAZIO,Left Winger,right,MORO R.
+Vedat,Muriqi ,LAZIO,Centre-Forward,left,MURIQI V.
+Patric ,Patric ,LAZIO,Centre-Back,right,PATRIC
+Pedro,Pedro,LAZIO,Right Winger,both,PEDRO
+Stefan,Radu ,LAZIO,Centre-Back,left,RADU S.
+Pepe,Reina ,LAZIO,Goalkeeper,right,REINA P.
+Luka,Romero  ,LAZIO,Right Winger,left,ROMERO L.
+Thomas,Strakosha ,LAZIO,Goalkeeper,right,STRAKOSHA T.
+Denis,Vavro ,LAZIO,Centre-Back,right,VAVRO D.
+Mattia,Zaccagni  ,LAZIO,Left Winger,right,ZACCAGNI M.
+TiemouE',Bakayoko ,MILAN,Defensive Midfield,right,BAKAYOKO T.
+FodE',Ballo-TourE' ,MILAN,Left-Back,left,BALLO-TOURE' F.
+Ismaël,Bennacer ,MILAN,Defensive Midfield,left,BENNACER I.
+Brahim,DIaz ,MILAN,Attacking Midfield,both,BRAHIM DIAZ
+Davide,Calabria  ,MILAN,Right-Back,right,CALABRIA D.
+Samu,Castillejo ,MILAN,Right Winger,left,CASTILLEJO S.
+Andrea,Conti  ,MILAN,Right-Back,right,CONTI A.
+Alessandro,Florenzi  ,MILAN,Right-Back,right,FLORENZI A.
+Matteo,Gabbia  ,MILAN,Centre-Back,right,GABBIA M.
+Olivier,Giroud ,MILAN,Centre-Forward,left,GIROUD O.
+Theo,HernAndez ,MILAN,Left-Back,left,HERNANDEZ T.
+Zlatan,IbrahimoviC  ,MILAN,Centre-Forward,both,IBRAHIMOVIC Z.
+Pierre,Kalulu ,MILAN,Centre-Back,right,KALULU P.
+Franck,KessiE'  ,MILAN,Central Midfield,right,KESSIE' F.
+Simon,Kjaer ,MILAN,Centre-Back,right,KJAER S.
+Rade,Krunic ,MILAN,Central Midfield,right,KRUNIC R.
+Rafael,LeAo ,MILAN,Left Winger,right,LEAO R.
+Mike,Maignan  ,MILAN,Goalkeeper,right,MAIGNAN M.
+Daniel,Maldini ,MILAN,Attacking Midfield,right,MALDINI D.
+Junior,Messias ,MILAN,Right Winger,left,MESSIAS J.
+Pietro,Pellegri ,MILAN,Centre-Forward,right,PELLEGRI P.
+Tommaso,Pobega ,MILAN,Central Midfield,both,POBEGA T.
+Ante,Rebic ,MILAN,Left Winger,right,REBIC A.
+Alessio,Romagnoli ,MILAN,Centre-Back,left,ROMAGNOLI A.
+Alexis,Saelemaekers  ,MILAN,Right Winger,right,SAELEMAEKERS A.
+Luca,Stanga ,MILAN,Centre-Back, ,STANGA L.
+Ciprian,Tatarusanu ,MILAN,Goalkeeper,right,TATARUSANU C.
+Fikayo,Tomori ,MILAN,Centre-Back,right,TOMORI F.
+Sandro,Tonali  ,MILAN,Defensive Midfield,right,TONALI S.
+Frank,Anguissa ,NAPOLI,Defensive Midfield,right,ANGUISSA A. Z.
+Diego,Demme ,NAPOLI,Defensive Midfield,right,DEMME D.
+Giovanni,Di Lorenzo,NAPOLI,Right-Back,right,DI LORENZO G.
+Eljif,Elmas ,NAPOLI,Attacking Midfield,right,ELMAS E.
+FabiAn,Ruiz ,NAPOLI,Central Midfield,left,FABIAN RUIZ
+Gianluca,Gaetano ,NAPOLI,Attacking Midfield,right,GAETANO G.
+Faouzi,Ghoulam ,NAPOLI,Left-Back,left,GHOULAM F.
+Lorenzo,Insigne  ,NAPOLI,Left Winger,right,INSIGNE L.
+Juan,Jesus ,NAPOLI,Centre-Back,left,JUAN JESUS
+Kalidou,Koulibaly ,NAPOLI,Centre-Back,right,KOULIBALY K.
+Stanislav,Lobotka ,NAPOLI,Defensive Midfield,both,LOBOTKA S.
+Hirving,Lozano ,NAPOLI,Right Winger,right,LOZANO H.
+KE'vin,Malcuit ,NAPOLI,Right-Back,right,MALCUIT K.
+Konstantinos,Manolas ,NAPOLI,Centre-Back,right,MANOLAS K.
+Davide,Marfella ,NAPOLI,Goalkeeper,right,MARFELLA D.
+Alex,Meret ,NAPOLI,Goalkeeper,left,MERET A.
+Dries,Mertens ,NAPOLI,Centre-Forward,right,MERTENS D.
+Victor,Osimhen ,NAPOLI,Centre-Forward,right,OSIMHEN V.
+David,Ospina ,NAPOLI,Goalkeeper,right,OSPINA D.
+Adam,Ounas ,NAPOLI,Right Winger,left,OUNAS A.
+Andrea,Petagna ,NAPOLI,Centre-Forward,left,PETAGNA A.
+Matteo,Politano ,NAPOLI,Right Winger,left,POLITANO M.
+Amir,Rrahmani ,NAPOLI,Centre-Back,both,RRAHMANI A.
+MArio,Rui ,NAPOLI,Left-Back,left,RUI M.
+Axel,Tuanzebe ,NAPOLI,Centre-Back,right,TUANZEBE A.
+Alessandro,Zanoli ,NAPOLI,Right-Back,right,ZANOLI A.
+Piotr,Zielinski ,NAPOLI,Attacking Midfield,both,ZIELINSKI P.
+Tammy,Abraham ,ROMA,Centre-Forward,right,ABRAHAM T.
+Felix,Afena-Gyan ,ROMA,Centre-Forward,right,AFENA-GYAN F.
+Edoardo,Bove ,ROMA,Central Midfield,right,BOVE E.
+Bryan,Cristante  ,ROMA,Defensive Midfield,right,CRISTANTE B.
+Ebrima,Darboe  ,ROMA,Defensive Midfield,right,DARBOE E.
+Amadou,Diawara ,ROMA,Defensive Midfield,right,DIAWARA A.
+Stephan,El Shaarawy,ROMA,Left Winger,right,EL SHAARAWY S.
+Daniel,Fuzato ,ROMA,Goalkeeper,right,FUZATO D.
+Roger,IbaNez ,ROMA,Centre-Back,right,IBANEZ R.
+Rick,Karsdorp ,ROMA,Right-Back,right,KARSDORP R.
+Dimitrios,Keramitsis ,ROMA,Centre-Back,both,KERAMITSIS D.
+Marash,Kumbulla ,ROMA,Centre-Back,right,KUMBULLA M.
+Ainsley,Maitland-Niles ,ROMA,Right Midfield,right,MAITLAND-NILES A.
+Gianluca,Mancini ,ROMA,Centre-Back,right,MANCINI G.
+Borja,Mayoral ,ROMA,Centre-Forward,right,MAYORAL B.
+Henrikh,Mkhitaryan ,ROMA,Attacking Midfield,both,MKHITARYAN H.
+SE'rgio,Oliveira ,ROMA,Central Midfield,right,OLIVEIRA S. M.
+Lorenzo,Pellegrini ,ROMA,Attacking Midfield,both,PELLEGRINI LO.
+Carles,PE'rez ,ROMA,Right Winger,left,PEREZ C.
+Bryan,Reynolds ,ROMA,Right-Back,right,REYNOLDS B.
+Rui,PatrIcio ,ROMA,Goalkeeper,left,RUI PATRICIO
+Eldor,Shomurodov ,ROMA,Centre-Forward,right,SHOMURODOV E.
+Chris,Smalling ,ROMA,Centre-Back,right,SMALLING C.
+Leonardo,Spinazzola  ,ROMA,Left-Back,right,SPINAZZOLA L.
+Jordan,Veretout ,ROMA,Central Midfield,right,VERETOUT J.
+MatIas,ViNa ,ROMA,Left-Back,left,VINA M.
+Cristian,Volpato ,ROMA,Attacking Midfield,left,VOLPATO C.
+Nicola,Zalewski ,ROMA,Left Midfield,both,ZALEWSKI N.
+NicolO',Zaniolo ,ROMA,Attacking Midfield,left,ZANIOLO N.
+Ramzi,Aya  ,SALERNITANA,Centre-Back,right,AYA R.
+Vid,Belec  ,SALERNITANA,Goalkeeper,right,BELEC V.
+Luka,Bogdan ,SALERNITANA,Centre-Back,right,BOGDAN L.
+Emil,Bohinen ,SALERNITANA,Central Midfield,left,BOHINEN E.
+Federico,Bonazzoli ,SALERNITANA,Centre-Forward,left,BONAZZOLI F.
+Leonardo,Capezzi ,SALERNITANA,Central Midfield,right,CAPEZZI L.
+Lassana,Coulibaly ,SALERNITANA,Central Midfield,right,COULIBALY L.
+Mamadou,Coulibaly ,SALERNITANA,Central Midfield,right,COULIBALY M.
+Filippo,Delli Carri,SALERNITANA,Centre-Back,left,DELLI CARRI F.
+Francesco,Di Tacchio,SALERNITANA,Defensive Midfield,left,DI TACCHIO F.
+Milan,Djuric ,SALERNITANA,Centre-Forward,right,DJURIC M.
+Radu,Dragusin ,SALERNITANA,Centre-Back,right,DRAGUSIN R.
+Ederson,Ederson,SALERNITANA,Central Midfield,right,EDERSON
+Federico,Fazio ,SALERNITANA,Centre-Back,right,FAZIO F.
+Vincenzo,Fiorillo ,SALERNITANA,Goalkeeper,left,FIORILLO V.
+Riccardo,Gagliolo ,SALERNITANA,Centre-Back,left,GAGLIOLO R.
+Cedric,Gondo ,SALERNITANA,Centre-Forward,right,GONDO C.
+Norbert,Gyomber  ,SALERNITANA,Centre-Back,right,GYOMBER N.
+Pawel,Jaroszynski  ,SALERNITANA,Left-Back,left,JAROSZYNSKI P.
+Grigoris,Kastanos ,SALERNITANA,Central Midfield,left,KASTANOS G.
+Wajdi,Kechrida ,SALERNITANA,Right-Back,right,KECHRIDA W.
+Julian,Kristoffersen ,SALERNITANA,Centre-Forward,right,KRISTOFFERSEN J.
+Pasquale,Mazzocchi  ,SALERNITANA,Right-Back,right,MAZZOCCHI P.
+Mikael ,Mikael ,SALERNITANA,Centre-Forward,left,MIKAEL
+Andrei,Motoc ,SALERNITANA,Centre-Back,right,MOTOC A.
+Lys,Mousset ,SALERNITANA,Centre-Forward,right,MOUSSET L.
+Joel,Obi ,SALERNITANA,Central Midfield,left,OBI J.
+Diego,Perotti ,SALERNITANA,Left Winger,right,PEROTTI D.
+Mario,Perrone ,SALERNITANA,Centre-Back,left,PERRONE M.
+Ivan,Radovanovic ,SALERNITANA,Defensive Midfield,right,RADOVANOVIC I.
+Franck,RibE'ry ,SALERNITANA,Left Winger,right,RIBERY F.
+Matteo,Ruggeri ,SALERNITANA,Left-Back,left,RUGGERI M.
+Alessandro,Russo ,SALERNITANA,Central Midfield,right,RUSSO AL.
+Andrea,Schiavone ,SALERNITANA,Defensive Midfield,right,SCHIAVONE A.
+Luigi,Sepe ,SALERNITANA,Goalkeeper,left,SEPE L.
+Simy,Simy,SALERNITANA,Centre-Forward,right,SIMY S.
+Stefan,Strandberg ,SALERNITANA,Centre-Back,right,STRANDBERG S.
+Simone,Verdi ,SALERNITANA,Attacking Midfield,both,VERDI S.
+Edoardo,Vergani ,SALERNITANA,Centre-Forward,right,VERGANI E.
+FrE'dE'ric,Veseli ,SALERNITANA,Centre-Back,right,VESELI F.
+Nadir,Zortea ,SALERNITANA,Right-Back,right,ZORTEA N.
+Adrien,Silva ,SAMPDORIA,Central Midfield,right,ADRIEN SILVA
+Kristoffer,Askildsen ,SAMPDORIA,Central Midfield,right,ASKILDSEN K.
+Emil,Audero ,SAMPDORIA,Goalkeeper,right,AUDERO E.
+Tommaso,Augello ,SAMPDORIA,Left-Back,left,AUGELLO T.
+Bartosz,Bereszynski ,SAMPDORIA,Right-Back,right,BERESZYNSKI B.
+Antonio,Candreva  ,SAMPDORIA,Right Midfield,right,CANDREVA A.
+Gianluca,Caprari ,SAMPDORIA,Second Striker,right,CAPRARI G.
+Francesco,Caputo ,SAMPDORIA,Centre-Forward,right,CAPUTO F.
+Julian,Chabot ,SAMPDORIA,Centre-Back,left,CHABOT J.
+Riccardo,Ciervo ,SAMPDORIA,Left Winger,right,CIERVO R.
+Omar,Colley ,SAMPDORIA,Centre-Back,left,COLLEY O.
+Mikkel,Damsgaard ,SAMPDORIA,Left Winger,right,DAMSGAARD M.
+Fabio,Depaoli ,SAMPDORIA,Right-Back,right,DEPAOLI F.
+Albin,Ekdal ,SAMPDORIA,Defensive Midfield,right,EKDAL A.
+Wladimiro,Falcone ,SAMPDORIA,Goalkeeper,right,FALCONE W.
+Alex,Ferrari ,SAMPDORIA,Centre-Back,right,FERRARI A.
+Manolo,Gabbiadini ,SAMPDORIA,Centre-Forward,left,GABBIADINI M.
+Sebastian,Giovinco ,SAMPDORIA,Second Striker,right,GIOVINCO S.
+Giangiacomo,Magnani ,SAMPDORIA,Centre-Back,right,MAGNANI G.
+Nicola,Murru ,SAMPDORIA,Left-Back,left,MURRU N.
+Fabio,Quagliarella ,SAMPDORIA,Centre-Forward,right,QUAGLIARELLA F.
+Nicola,Ravaglia  ,SAMPDORIA,Goalkeeper,right,RAVAGLIA N.
+TomAs,RincOn ,SAMPDORIA,Defensive Midfield,right,RINCON T.
+Abdelhamid,Sabiri ,SAMPDORIA,Attacking Midfield,right,SABIRI A.
+Vladyslav,Supryaga  ,SAMPDORIA,Centre-Forward,right,SUPRYAGA V.
+Morten,Thorsby ,SAMPDORIA,Central Midfield,right,THORSBY M.
+Ernesto,Torregrossa ,SAMPDORIA,Centre-Forward,left,TORREGROSSA E.
+Simone,Trimboli ,SAMPDORIA,Central Midfield,right,TRIMBOLI S.
+Ronaldo,Vieira ,SAMPDORIA,Central Midfield,right,VIEIRA R.
+Gerard,Yepes ,SAMPDORIA,Defensive Midfield,right,YEPES G.
+Maya,Yoshida ,SAMPDORIA,Centre-Back,right,YOSHIDA M.
+Kaan,Ayhan ,SASSUOLO,Centre-Back,right,AYHAN K.
+Domenico,Berardi ,SASSUOLO,Right Winger,left,BERARDI D.
+Emil,Konradsen Ceide,SASSUOLO,Left Winger,right,CEIDE E. K.
+Vlad,Chiriches  ,SASSUOLO,Centre-Back,right,CHIRICHES V.
+Andrea,Consigli ,SASSUOLO,Goalkeeper,right,CONSIGLI A.
+GrE'goire,Defrel  ,SASSUOLO,Centre-Forward,left,DEFREL G.
+Filip,Djuricic  ,SASSUOLO,Attacking Midfield,right,DJURICIC F.
+Gian,Marco Ferrari,SASSUOLO,Centre-Back,left,FERRARI G.
+Davide,Frattesi ,SASSUOLO,Central Midfield,right,FRATTESI D.
+Abdou,Harroui ,SASSUOLO,Central Midfield,both,HARROUI A.
+Matheus,Henrique ,SASSUOLO,Central Midfield,right,HENRIQUE M.
+Georgios,Kyriakopoulos ,SASSUOLO,Left-Back,left,KYRIAKOPOULOS G.
+Maxime,LOpez ,SASSUOLO,Defensive Midfield,right,LOPEZ M.
+Francesco,Magnanelli ,SASSUOLO,Defensive Midfield,right,MAGNANELLI F.
+Mert,MUldUr ,SASSUOLO,Right-Back,right,MULDUR M.
+Brian,Oddei ,SASSUOLO,Right Winger,left,ODDEI B.
+Gianluca,Pegolo ,SASSUOLO,Goalkeeper,left,PEGOLO G.
+Federico,Peluso ,SASSUOLO,Left-Back,left,PELUSO F.
+Giacomo,Raspadori ,SASSUOLO,Second Striker,both,RASPADORI G.
+RogE'rio,RogE'rio,SASSUOLO,Left-Back,left,ROGERIO
+Ruan,Tressoldi ,SASSUOLO,Centre-Back,right,RUAN
+Luigi,Samele ,SASSUOLO,Centre-Forward,right,SAMELE L.
+Giacomo,Satalino ,SASSUOLO,Goalkeeper,right,SATALINO G.
+Gianluca,Scamacca ,SASSUOLO,Centre-Forward,right,SCAMACCA G.
+Jeremy,Toljan ,SASSUOLO,Right-Back,right,TOLJAN J.
+Hamed,Junior Traorè,SASSUOLO,Attacking Midfield,both,TRAORE H. J.
+Kelvin,Amian ,SPEZIA,Right-Back,right,AMIAN ADOU K.
+Janis,Antiste ,SPEZIA,Centre-Forward,right,ANTISTE J.
+Simone,Bastoni ,SPEZIA,Central Midfield,left,BASTONI S.
+NicolO',Bertola ,SPEZIA,Centre-Back,right,BERTOLA N.
+Mehdi,Bourabia ,SPEZIA,Defensive Midfield,right,BOURABIA M.
+Ebrima,Colley ,SPEZIA,Left Winger,right,COLLEY E.
+Martin,Erlic ,SPEZIA,Centre-Back,right,ERLIC M.
+Salva,Ferrer ,SPEZIA,Right-Back,right,FERRER S.
+Emmanuel,Gyasi ,SPEZIA,Left Winger,right,GYASI E.
+Petko,Hristov ,SPEZIA,Centre-Back,right,HRISTOV P.
+Jakub,Kiwior ,SPEZIA,Centre-Back,left,KIWIOR J.
+Viktor,Kovalenko  ,SPEZIA,Attacking Midfield,right,KOVALENKO V.
+Giulio,Maggiore ,SPEZIA,Central Midfield,right,MAGGIORE G.
+Rey,Manaj ,SPEZIA,Centre-Forward,right,MANAJ R.
+Samuel,Mraz ,SPEZIA,Centre-Forward,right,MRAZ S.
+Aurelien,Nguiamba,SPEZIA,Central Midfield,left,NGUIAMBA A.
+Dimitrios,Nikolaou ,SPEZIA,Centre-Back,left,NIKOLAOU D.
+M'Bala,Nzola ,SPEZIA,Centre-Forward,left,NZOLA M.
+Suf,Podgoreanu  ,SPEZIA,Right Winger,right,PODGOREANU S.
+Ivan,Provedel ,SPEZIA,Goalkeeper,right,PROVEDEL I.
+Arkadiusz,Reca  ,SPEZIA,Left-Back,left,RECA A.
+Jacopo,Sala ,SPEZIA,Central Midfield,right,SALA J.
+Aimar,Sher ,SPEZIA,Central Midfield,right,SHER A.
+David,Strelec ,SPEZIA,Centre-Forward,left,STRELEC D.
+Daniele,Verde ,SPEZIA,Right Winger,left,VERDE D.
+Luca,Vignali ,SPEZIA,Right-Back,right,VIGNALI L.
+Jeroen,Zoet ,SPEZIA,Goalkeeper,right,ZOET J.
+Petar,Zovko ,SPEZIA,Goalkeeper,left,ZOVKO P.
+Cristian,Ansaldi ,TORINO,Left-Back,both,ANSALDI C.
+Andrea,Belotti ,TORINO,Centre-Forward,right,BELOTTI A.
+Etrit,Berisha ,TORINO,Goalkeeper,left,BERISHA E.
+Josip,Brekalo ,TORINO,Left Winger,right,BREKALO J.
+Bremer,Bremer,TORINO,Centre-Back,right,BREMER G.
+Alessandro,Buongiorno  ,TORINO,Centre-Back,left,BUONGIORNO A.
+Koffi,Djidji ,TORINO,Centre-Back,right,DJIDJI K.
+Luca,Gemello ,TORINO,Goalkeeper,right,GEMELLO L.
+Armando,Izzo ,TORINO,Centre-Back,right,IZZO A.
+Ben,Lhassine Kone,TORINO,Attacking Midfield,left,KONE B. L.
+Karol,Linetty ,TORINO,Central Midfield,right,LINETTY K.
+Saša,LukiC  ,TORINO,Central Midfield,right,LUKIC S.
+Rolando,Mandragora ,TORINO,Defensive Midfield,left,MANDRAGORA R.
+Vanja,MilinkoviC-SaviC ,TORINO,Goalkeeper,right,MILINKOVIC-SAVIC V.
+Ola,Aina  ,TORINO,Right-Back,right,OLA AINA T.
+Marko,Pjaca ,TORINO,Left Winger,right,PJACA M.
+Dennis,Praet ,TORINO,Central Midfield,right,PRAET D.
+Ricardo,RodrIguez ,TORINO,Centre-Back,left,RODRIGUEZ R.
+Antonio,Sanabria ,TORINO,Centre-Forward,right,SANABRIA A.
+Demba,Seck ,TORINO,Right Winger,left,SECK D.
+Stephane,Singo ,TORINO,Right-Back,right,SINGO W. S.
+Mërgim,Vojvoda ,TORINO,Right-Back,right,VOJVODA M.
+Magnus,Warming  ,TORINO,Left Winger,right,WARMING M.
+Simone,Zaza ,TORINO,Centre-Forward,left,ZAZA S.
+David,Zima ,TORINO,Centre-Back,right,ZIMA D.
+Tolgay,Arslan ,UDINESE,Central Midfield,right,ARSLAN T.
+Rodrigo,BecAo  ,UDINESE,Centre-Back,right,BECAO R.
+Filip,Benkovic ,UDINESE,Centre-Back,right,BENKOVIC F.
+Beto,Beto,UDINESE,Centre-Forward,right,BETO
+Sebastien,De Maio,UDINESE,Centre-Back,right,DE MAIO S.
+Gerard,Deulofeu ,UDINESE,Centre-Forward,right,DEULOFEU G.
+Fernando,Forestieri ,UDINESE,Second Striker,right,FORESTIERI F.
+Mato,Jajalo ,UDINESE,Defensive Midfield,right,JAJALO M.
+Jens,Larsen,UDINESE,Right-Back,right,LARSEN J.
+Jean-Victor,Makengo  ,UDINESE,Central Midfield,left,MAKENGO J.
+Pablo,MarI  ,UDINESE,Centre-Back,left,MARI' P.
+Nahuel,Molina ,UDINESE,Right-Back,right,MOLINA N.
+Ilija,Nestorovski ,UDINESE,Centre-Forward,left,NESTOROVSKI I.
+Bram,Nuytinck  ,UDINESE,Centre-Back,left,NUYTINCK B.
+Stefano,Okaka ,UDINESE,Centre-Forward,right,OKAKA S.
+Daniele,Padelli ,UDINESE,Goalkeeper,right,PADELLI D.
+Simone,Pafundi ,UDINESE,Attacking Midfield,left,PAFUNDI S.
+Roberto,Pereyra ,UDINESE,Central Midfield,both,PEREYRA R.
+NehuE'n,PE'rez ,UDINESE,Centre-Back,right,PEREZ N.
+Riccardo,Pinzi ,UDINESE,Central Midfield,right,PINZI R.
+Ignacio,Pussetto  ,UDINESE,Right Winger,right,PUSSETTO I.
+Lazar,Samardzic ,UDINESE,Attacking Midfield,left,SAMARDZIC L.
+Samir,Samir,UDINESE,Centre-Back,left,SAMIR
+Marco,Silvestri ,UDINESE,Goalkeeper,right,SILVESTRI M.
+Brandon,Soppy ,UDINESE,Right-Back,right,SOPPY B.
+Isaac,Success ,UDINESE,Centre-Forward,right,SUCCESS I.
+Destiny,Udogie  ,UDINESE,Left-Back,left,UDOGIE D.
+Walace,Walace,UDINESE,Defensive Midfield,right,WALACE
+Marvin,Zeegelaar ,UDINESE,Left-Back,left,ZEEGELAAR M.
+Ethan,Ampadu ,VENEZIA,Centre-Back,right,AMPADU E.
+Mattia,Aramu ,VENEZIA,Attacking Midfield,left,ARAMU M.
+Issa,Bah ,VENEZIA,Left Winger,right,BAH I.
+Bjarki,Bjarkason ,VENEZIA,Left Winger,right,BJARKASON B. S.
+Gianluca,Busio ,VENEZIA,Central Midfield,right,BUSIO G.
+Mattia,Caldara ,VENEZIA,Centre-Back,right,CALDARA M.
+Pietro,Ceccaroni ,VENEZIA,Centre-Back,left,CECCARONI P.
+Domen,Crnigoj ,VENEZIA,Central Midfield,right,CRNIGOJ D.
+Michaël,Cuisance ,VENEZIA,Central Midfield,left,CUISANCE M.
+Jacopo,Dezi ,VENEZIA,Central Midfield,right,DEZI J.
+Francesco,Di Mariano,VENEZIA,Left Winger,right,DI MARIANO F.
+Tyronne,Ebuehi ,VENEZIA,Right-Back,right,EBUEHI T.
+Luca,Fiordilino ,VENEZIA,Defensive Midfield,right,FIORDILINO L.
+Francesco,Forte ,VENEZIA,Centre-Forward,left,FORTE F.
+Nicolas,Galazzi ,VENEZIA,Right Winger,left,GALAZZI N.
+Ridgeciano,Haps  ,VENEZIA,Left-Back,left,HAPS R.
+Thomas,Henry ,VENEZIA,Centre-Forward,right,HENRY T.
+Daan,Heymans,VENEZIA,Attacking Midfield,right,HEYMANS D.
+Dennis,Johnsen ,VENEZIA,Left Winger,right,JOHNSEN D.
+Sofian,Kiyine ,VENEZIA,Central Midfield,right,KIYINE S.
+Patrick,Leal ,VENEZIA,Attacking Midfield,right,LEAL P. T.
+Luca,Lezzerini  ,VENEZIA,Goalkeeper,right,LEZZERINI L.
+Niki,MAenpAA ,VENEZIA,Goalkeeper,right,MAENPAA N.
+Ales,Mateju ,VENEZIA,Right-Back,right,MATEJU A.
+Hilmir,Rafn Mikaelsson,VENEZIA,Centre-Forward, ,MIKAELSSON H. R.
+Marco,Modolo ,VENEZIA,Centre-Back,right,MODOLO M.
+Cristian,Molinaro ,VENEZIA,Left-Back,left,MOLINARO C.
+Nani,NANI,VENEZIA,Left Winger,both,NANI L. C.
+Jean-Pierre,Nsame ,VENEZIA,Centre-Forward,right,NSAME J.
+David,Okereke ,VENEZIA,Centre-Forward,right,OKEREKE D.
+Dor,Peretz ,VENEZIA,Defensive Midfield,right,PERETZ D.
+Sergio,Romero ,VENEZIA,Goalkeeper,right,ROMERO S.
+David,Schnegg ,VENEZIA,Left-Back,left,SCHNEGG D.
+ArnOr,Sigurdsson ,VENEZIA,Attacking Midfield,right,SIGURDSSON A.
+Michael,Svoboda ,VENEZIA,Centre-Back,right,SVOBODA M.
+Tanner,Tessmann ,VENEZIA,Central Midfield,right,TESSMANN T.
+Maximilian,Ullmann ,VENEZIA,Left-Back,left,ULLMANN M.
+Antonio,Junior Vacca,VENEZIA,Defensive Midfield,right,VACCA A.
