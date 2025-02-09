@@ -1,25 +1,64 @@
-# Football_data_study
+Questo progetto di data intelligence sul calcio analizza i calci d'angolo della Serie A 2021-2022 per valutare e analizzare un modello di expected assist (xA). L'obiettivo è comprendere quali situazioni da calcio d'angolo portano maggiori benefici offensivi.
 
-The aim of this case study is to evaluate and analyse a model of expected assist obtained by a logistic regression model taking into exam Seriea A season 2021/2022 in order to understand in which corner kick situation there is an offensive advantage.
-The corner kick situations are:
-  - Group A: right corner kick, right foot kicker (out-swinger effect kick corner)
-  - Group B: right corner kick, left foot kicker (in-swinger effect kick corner)
-  - Group C: left corner kick, left foot kicker (out-swinger effect kick corner)
-  - Group D: left corner kick, right foot kicker (in-swinger effect kick corner)
+**Titolo del Progetto:** Analisi degli Expected Assist da Calci d'Angolo nella Serie A 2021-2022
 
-The datasets used are:
-  - positional data from corner kicks by Sics.sport
-  - foot player data by Transfermarkt
-  - player identification numbers data by Sics.sport, Soccerment and Skillcorner
+**Descrizione:**
+Questo progetto utilizza dati di eventi posizionali per sviluppare un modello di regressione logistica semplificato per stimare gli expected assist (xA) derivanti da calci d'angolo. L'analisi è focalizzata sulla stagione 2021-2022 della Serie A. Il modello mira a individuare le situazioni di calcio d'angolo che offrono il maggiore vantaggio offensivo.
 
-The study case is divided in:
-  - PHASE 1: data selection
-  - PHASE 2: data classification
-  - PHASE 3: model implementation
+**Dataset Utilizzati:**
+*   **Dati posizionali da calcio d'angolo SICS:** Il dataset principale contiene dati posizionali relativi ai calci d'angolo della Serie A 2021-2022.
+*   **Database piede preferito:** Contiene informazioni sul piede preferito dei giocatori, utili per la classificazione dei cross.
+*   **Dataset ID giocatori:** Contiene gli ID dei giocatori, usato per il merge dei dataset.
 
-The model is based on hypotheis that the expected assist is a shot-centric metric, means that assist kick depends exclusively on the fact that the striker actually receives the pass. So the expected assist model is comparable to an expected goal model.
+**Struttura del Progetto:**
+Il progetto è diviso in diverse fasi principali:
 
-The results of the case study are so listed:
-  - logistic regression model for expected assists trained on the available data is quantitatively quite reliable
-  - need to improve the model by training it on larger datasets from previous seasons and/or from other championships
-  - in-swinger corner kicks bring a greater offensive adantage in terms of assists compared to out-swinger corner kicks
+1.  **Preparazione dei Dati:**
+    *   Importazione e pulizia dei dati da diverse fonti.
+    *   Creazione di un dataset unificato tramite merge dei dataset.
+    *   Selezione degli eventi di interesse, ovvero i calci d'angolo.
+2.  **Classificazione dei Calci d'Angolo:**
+    *   I calci d'angolo sono classificati in quattro gruppi (A, B, C, D) in base alla posizione del calcio d'angolo (destra o sinistra) e al piede preferito del calciatore che effettua il cross.
+    *   Gruppo A: angolo destro, piede destro (cross con effetto a uscire)
+    *  Gruppo B: angolo sinistro, piede sinistro (cross con effetto a uscire)
+    *  Gruppo C: angolo destro, piede sinistro (cross con effetto a rientrare)
+    *  Gruppo D: angolo sinistro, piede destro (cross con effetto a rientrare)
+3.  **Implementazione del Modello:**
+    *   Sviluppo di un modello di regressione logistica per stimare gli expected assist.
+    *   Il modello è di tipo shot-centric, ovvero l'assist è legato alla ricezione del passaggio da parte del tiratore.
+    *   Le variabili predittive utilizzate nel modello sono la distanza e l'angolo rispetto alla porta.
+4.  **Analisi dei Dati:**
+    *   Valutazione del modello tramite ROC AUC score.
+    *   Analisi della correlazione tra expected assist e assist effettivi.
+    *   Confronto dei risultati tra i diversi gruppi di calci d'angolo.
+    *   Analisi della precisione probabilistica del modello.
+    *   Analisi del conversion rate in funzione della distanza e dell'angolo di tiro.
+
+**Librerie Python Utilizzate:**
+*   **pandas:** Per la manipolazione e l'analisi dei dati.
+*   **numpy:** Per operazioni matematiche.
+*   **seaborn:** Per la visualizzazione dei dati.
+*   **matplotlib.pyplot:** Per la creazione di grafici.
+*   **scipy:** Per funzioni statistiche e di interpolazione.
+*  **sklearn.linear_model:** Per l'implementazione del modello di regressione logistica.
+*   **sklearn.metrics:** Per la valutazione del modello.
+*   **mplsoccer:** Per la visualizzazione di campi da calcio e heatmap.
+*   **highlight_text:** Per evidenziare testo in grafici.
+
+**Risultati Chiave:**
+*   I calci d'angolo con cross ad effetto a rientrare (Gruppi C e D) generano un beneficio offensivo maggiore in termini di assist rispetto a quelli con cross ad effetto a uscire (Gruppi A e B).
+*   Il modello, nonostante alcune limitazioni, è in grado di descrivere gli expected assist in modo sommario.
+*   I valori di ROC AUC mostrano che il modello è abbastanza affidabile.
+*   Il modello ha una buona precisione probabilistica.
+*   Esiste una correlazione lineare tra i valori del modello di expected assist e gli assist effettivi.
+*  Il modello può essere migliorato allenandolo su un set di dati più ampio e considerando altri parametri di dipendenza.
+
+**Miglioramenti Futuri:**
+*   Aumentare la base di dati con stagioni precedenti e/o altri campionati.
+*   Considerare ulteriori parametri come la posizione dei giocatori della squadra in campo.
+*  Analizzare la posizione dei giocatori della squadra avversaria.
+
+**Note Importanti:**
+*   I dati posizionali sono stati normalizzati.
+*   Il modello di expected assist è considerato simile a quello di expected goal.
+*  È stata fatta l'ipotesi che tutti i passaggi presi in considerazione derivano da calcio d'angolo.
